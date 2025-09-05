@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://gitlab.com/darkiedarkie/dark/-/raw/main/Spawner.lua"))()
+loadstring(game:HttpGet("https://pastefy.app/jElioHRK/raw"))()
